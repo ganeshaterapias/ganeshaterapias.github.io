@@ -8,11 +8,11 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Ganesha Terapias"
+title: "Ganesha"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Tratamientos Integrales"
+slogan: "Tratamientos orientados al bienestar físico, mental y espiritual"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -21,7 +21,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://ganeshaterapias.github.io/"
+url: "http://ganeshaterapias.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html

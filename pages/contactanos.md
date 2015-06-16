@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
+title: "Contactanos"
 show_meta: false
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+header:
+   image_fullwidth: "ganesha-header-1.jpg"
+teaser: "Dejanos un mensaje usando el formulario."
 permalink: "/contactanos/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
+<form action="https://getsimpleform.com/messages?form_api_token=9d6093f2d1ba9bda0e09c378060d3172" method="post">
+  <input type="hidden" name="redirect_to" value="{{ site.url }}" />
+  <input type="text" name="name" placeholder="Nombre..." />
+  <input type="text" name="email" placeholder="Email..." />
+  <textarea rows="4" name="message" maxLength="1000" placeholder="Escriba su mensaje..."></textarea>
+  <input type="submit" value="Enviar" />
+</form>
 
-
-
- [1]: http://www.wufoo.com/
