@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: "Qué Ofrecemos"
-  url: "/que-ofrecemos/"
-  side: left
-
 - title: "Contactanos"
   url: "/contactanos/"
   side: right
