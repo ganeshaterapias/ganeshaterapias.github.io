@@ -2,20 +2,8 @@
   url: "/"
   side: left
 
-- title: Quienes Somos
-  url: "/quienes-somos/"
-  side: left
-
 - title: "Qué Ofrecemos"
   url: "/que-ofrecemos/"
-  side: left
-
-- title: "Eventos"
-  url: "/eventos/"
-  side: left
-
-- title: Artículos
-  url: "/articulos/"
   side: left
 
 - title: "Contactanos"

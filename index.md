@@ -6,7 +6,9 @@
 #
 layout: frontpage
 title: "Bienvenido a Ganesha Terapias"
-teaser: "[Pagina de bienvenida]."
+teaser: "Página actualmente en construcción."
 header:
    image_fullwidth: "ganesha-header-1.jpg"
 ---
+
+Página actualmente en construcción.
