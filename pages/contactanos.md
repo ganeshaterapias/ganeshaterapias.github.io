@@ -8,7 +8,7 @@ teaser: "Dejanos un mensaje usando el formulario."
 permalink: "/contactanos/"
 ---
 
-<form action="https://getsimpleform.com/messages?form_api_token=9d6093f2d1ba9bda0e09c378060d3172" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=2957177bf9862496fd83247fff1e2951" method="post">
   <input type="hidden" name="redirect_to" value="{{ site.url }}" />
   <input type="text" name="name" placeholder="Nombre..." />
   <input type="text" name="email" placeholder="Email..." />
