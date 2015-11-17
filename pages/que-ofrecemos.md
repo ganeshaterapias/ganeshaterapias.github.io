@@ -2,16 +2,17 @@
 layout: page
 show_meta: false
 title: "Qué Ofrecemos"
-teaser: ""
+teaser: "Tratamientos integrales de salud mental y sanación pránica"
 header:
    image_fullwidth: "ganesha-header-2.jpg"
 permalink: "/que-ofrecemos/"
 ---
 
-- Sanación Pránica
+- Sesiones individuales psicoterapéuticas
+- Sesiones individuales de sanación pránica
+- Sesiones grupales psicoterapéuticas
+- Tratamientos psicofarmacológicos
+- Espacios de meditación
+- Talleres y charlas a la comunidad
 - Flores de Bach
 - Flores de California
-- Espacios de meditación
-- Charlas y talleres
-- Tratamientos psicoterapeuticos
-- Terapia grupal
