@@ -4,11 +4,11 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page
+layout: frontpage
 title: "Bienvenido a Ganesha Terapias"
 teaser: "Página actualmente en construcción."
 header:
    image_fullwidth: "ganesha-header-1.jpg"
 ---
 
-
+Página actualmente en construcción.
