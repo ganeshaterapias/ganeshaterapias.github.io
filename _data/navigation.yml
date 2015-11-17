@@ -4,7 +4,7 @@
 
 - title: "Qué ofrecemos"
   url: "/que-ofrecemos/"
-  side: right
+  side: left
 
 - title: "Contactanos"
   url: "/contactanos/"
