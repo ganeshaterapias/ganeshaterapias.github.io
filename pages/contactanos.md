@@ -4,10 +4,10 @@ title: "Contactanos"
 show_meta: false
 header:
    image_fullwidth: "ganesha-header-1.jpg"
-teaser: "Dejanos un mensaje usando el formulario."
+teaser: ""
 permalink: "/contactanos/"
 ---
-
+<p>Dejanos un mensaje usando el formulario o escribinos a <a href="mailto:ganeshacentro@gmail.com">ganeshacentro@gmail.com</a></p>
 <form action="https://getsimpleform.com/messages?form_api_token=2957177bf9862496fd83247fff1e2951" method="post">
   <input type="hidden" name="redirect_to" value="{{ site.url }}" />
   <input type="text" name="name" placeholder="Nombre..." />
