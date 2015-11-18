@@ -10,6 +10,10 @@
   url: "/quienes-somos/"
   side: left
 
+- title: "¿A quiénes está dirigido?"
+  url: "/para-quienes/"
+  side: left
+
 - title: "Contactanos"
   url: "/contactanos/"
   side: right
