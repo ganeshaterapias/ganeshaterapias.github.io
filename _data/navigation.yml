@@ -6,6 +6,10 @@
   url: "/que-ofrecemos/"
   side: left
 
+- title: "Quienes somos"
+  url: "/quienes-somos/"
+  side: left
+
 - title: "Contactanos"
   url: "/contactanos/"
   side: right
