@@ -1,11 +1,5 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: page
-title: "Centro Ganesha"
 teaser: "Conformamos un equipo de abordaje holístico considerando al ser humano a nivel físico, emocional mental y espiritual."
 header:
    image_fullwidth: "ganesha-header-1.jpg"
