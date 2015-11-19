@@ -4,7 +4,7 @@ show_meta: false
 title: "Qué Ofrecemos"
 teaser: "Tratamientos integrales de salud mental y sanación pránica"
 header:
-   image_fullwidth: "ganesha-header-2.jpg"
+   image_fullwidth: "ganesha-header-4.jpg"
 permalink: "/que-ofrecemos/"
 ---
 

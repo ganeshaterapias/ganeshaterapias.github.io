@@ -4,7 +4,7 @@ show_meta: false
 title: "Quienes Somos"
 teaser: "Somos un equipo de Sanadores Pránicos profesionales de la Salud Mental (psicólogos y psiquiatras) avocados al abordaje del bienestar."
 header:
-   image_fullwidth: "ganesha-header-3.jpg"
+   image_fullwidth: "ganesha-header-5.jpg"
 permalink: "/quienes-somos/"
 ---
 
