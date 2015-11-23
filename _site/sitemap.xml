@@ -4,24 +4,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/404.html</loc>
+      <loc>http://ganeshaterapias.github.io/404.html</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/blog/archive/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -34,24 +19,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/changelog/</loc>
+      <loc>http://ganeshaterapias.github.io/blog/archive/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/contactanos/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -64,24 +34,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/design/</loc>
+      <loc>http://ganeshaterapias.github.io/changelog/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/documentation/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,24 +49,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/feed.xml</loc>
+      <loc>http://ganeshaterapias.github.io/contactanos/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/getting-started/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -124,24 +64,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/headers/</loc>
+      <loc>http://ganeshaterapias.github.io/design/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/humans.txt</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -154,24 +79,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/blog/</loc>
+      <loc>http://ganeshaterapias.github.io/documentation/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -184,24 +94,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/info/</loc>
+      <loc>http://ganeshaterapias.github.io/feed.xml</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/para-quienes/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -214,24 +109,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/que-ofrecemos/</loc>
+      <loc>http://ganeshaterapias.github.io/getting-started/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/quienes-somos/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -244,24 +124,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/redirect-page/</loc>
+      <loc>http://ganeshaterapias.github.io/headers/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/roadmap/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -274,24 +139,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/robots.txt</loc>
+      <loc>http://ganeshaterapias.github.io/humans.txt</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://0.0.0.0:4000/search/</loc>
-      
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -304,9 +154,9 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/sitemap.xml</loc>
+      <loc>http://ganeshaterapias.github.io/blog/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -319,9 +169,159 @@
   
     
     <url>
-      <loc>http://0.0.0.0:4000/assets/css/styles_feeling_responsive.css</loc>
+      <loc>http://ganeshaterapias.github.io/</loc>
       
-        <lastmod>2015-11-19T00:14:35-03:00</lastmod>
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/info/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/para-quienes/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/que-ofrecemos/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/quienes-somos/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/redirect-page/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/roadmap/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/robots.txt</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/search/</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/sitemap.xml</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ganeshaterapias.github.io/assets/css/styles_feeling_responsive.css</loc>
+      
+        <lastmod>2015-11-23T01:28:41-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

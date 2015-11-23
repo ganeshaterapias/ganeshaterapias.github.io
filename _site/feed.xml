@@ -3,8 +3,8 @@
   <channel>
     <title>Centro Ganesha</title>
     <description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://ganeshaterapias.github.io/</link>
+    <atom:link href="http://ganeshaterapias.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
